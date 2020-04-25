@@ -1,0 +1,17 @@
+{
+  "name": "ytSyncMobile",
+  "displayName": "ytSyncMobile",
+  "expo": {
+    "name": "ytSyncMobile",
+    "slug": "ytSyncMobile",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
